@@ -1,0 +1,10 @@
+{
+  "name": "sharptrader-non-toxic",
+  "displayName": "SharpTrader non-toxic orders",
+  "version": "1.0.0",
+  "description": "Nine skills that teach your AI agent to plan SharpTrader non-toxic orders within your limits: read how a broker sees your account, choose ordinary-looking trades, size their cost, book them and check the result. Needs SharpTrader's MCP server with Non-toxic orders switched on.",
+  "author": {
+    "name": "BJF Trading Group Inc.",
+    "url": "https://bjftradinggroup.com"
+  }
+}
